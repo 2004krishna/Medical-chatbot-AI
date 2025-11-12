@@ -1,13 +1,13 @@
 Medical Chatbot AI
 This project is an AI-based chatbot that answers basic medical-related questions using machine learning and natural language processing. It can understand user messages about symptoms or health issues and reply with helpful information.
 
-🔹 Features
+Features
 Understands user queries about health topics
 Gives relevant medical responses
 Trained and tested using custom datasets
 Easy to run using Jupyter Notebook or Streamlit
 
-🧠 Technologies Used
+Technologies Used
 Python
 pandas, NumPy, scikit-learn
 TensorFlow / PyTorch
